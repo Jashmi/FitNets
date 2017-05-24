@@ -1,0 +1,473 @@
+Output on training teacher network ! Trained using 2 layers (20,50) and then one fully connected MLP
+ 
+epoch 1, minibatch 100/100, validation error 8.320000 %
+epoch 1, minibatch 100/100, testing error 8.780000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 5.630000 %
+epoch 2, minibatch 100/100, testing error 5.980000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 4.110000 %
+epoch 3, minibatch 100/100, testing error 4.520000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 3.250000 %
+epoch 4, minibatch 100/100, testing error 3.650000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 2.870000 %
+epoch 5, minibatch 100/100, testing error 3.040000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 2.620000 %
+epoch 6, minibatch 100/100, testing error 2.620000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 2.370000 %
+epoch 7, minibatch 100/100, testing error 2.390000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.270000 %
+epoch 8, minibatch 100/100, testing error 2.120000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.140000 %
+epoch 9, minibatch 100/100, testing error 1.910000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.040000 %
+epoch 10, minibatch 100/100, testing error 1.780000 %
+('training @ iter = ', 1000)
+epoch 11, minibatch 100/100, validation error 1.980000 %
+epoch 11, minibatch 100/100, testing error 1.700000 %
+('training @ iter = ', 1100)
+epoch 12, minibatch 100/100, validation error 1.880000 %
+epoch 12, minibatch 100/100, testing error 1.630000 %
+('training @ iter = ', 1200)
+epoch 13, minibatch 100/100, validation error 1.710000 %
+epoch 13, minibatch 100/100, testing error 1.540000 %
+('training @ iter = ', 1300)
+epoch 14, minibatch 100/100, validation error 1.640000 %
+epoch 14, minibatch 100/100, testing error 1.470000 %
+('training @ iter = ', 1400)
+epoch 15, minibatch 100/100, validation error 1.580000 %
+epoch 15, minibatch 100/100, testing error 1.420000 %
+('training @ iter = ', 1500)
+epoch 16, minibatch 100/100, validation error 1.520000 %
+epoch 16, minibatch 100/100, testing error 1.380000 %
+('training @ iter = ', 1600)
+epoch 17, minibatch 100/100, validation error 1.490000 %
+epoch 17, minibatch 100/100, testing error 1.290000 %
+('training @ iter = ', 1700)
+epoch 18, minibatch 100/100, validation error 1.500000 %
+('training @ iter = ', 1800)
+epoch 19, minibatch 100/100, validation error 1.480000 %
+epoch 19, minibatch 100/100, testing error 1.190000 %
+('training @ iter = ', 1900)
+epoch 20, minibatch 100/100, validation error 1.470000 %
+epoch 20, minibatch 100/100, testing error 1.160000 %
+Optimization complete
+Best validation score of 1.470000 % obtained at iteration 1999,with test performance 1.160000 %
+The code ran for 49.83m
+
+
+
+---------------------------------------
+---------------------------------------
+
+Results for 3 layer
+
+---------------------------------------
+---------------------------------------
+
+Testing using 3 layers of width (10,10,10)
+epoch 1, minibatch 100/100, validation error 21.500000 %
+epoch 1, minibatch 100/100, testing error 22.060000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 11.460000 %
+epoch 2, minibatch 100/100, testing error 11.450000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 7.510000 %
+epoch 3, minibatch 100/100, testing error 7.750000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 6.040000 %
+epoch 4, minibatch 100/100, testing error 6.020000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 5.220000 %
+epoch 5, minibatch 100/100, testing error 5.100000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 4.590000 %
+epoch 6, minibatch 100/100, testing error 4.570000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 4.290000 %
+epoch 7, minibatch 100/100, testing error 4.090000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 4.000000 %
+epoch 8, minibatch 100/100, testing error 3.810000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 3.700000 %
+epoch 9, minibatch 100/100, testing error 3.640000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 3.480000 %
+epoch 10, minibatch 100/100, testing error 3.390000 %
+('training @ iter = ', 1000)
+epoch 11, minibatch 100/100, validation error 3.360000 %
+epoch 11, minibatch 100/100, testing error 3.210000 %
+('training @ iter = ', 1100)
+epoch 12, minibatch 100/100, validation error 3.280000 %
+epoch 12, minibatch 100/100, testing error 3.010000 %
+('training @ iter = ', 1200)
+epoch 13, minibatch 100/100, validation error 3.210000 %
+epoch 13, minibatch 100/100, testing error 2.880000 %
+('training @ iter = ', 1300)
+epoch 14, minibatch 100/100, validation error 3.030000 %
+epoch 14, minibatch 100/100, testing error 2.710000 %
+('training @ iter = ', 1400)
+epoch 15, minibatch 100/100, validation error 2.950000 %
+epoch 15, minibatch 100/100, testing error 2.690000 %
+('training @ iter = ', 1500)
+epoch 16, minibatch 100/100, validation error 2.890000 %
+epoch 16, minibatch 100/100, testing error 2.650000 %
+('training @ iter = ', 1600)
+epoch 17, minibatch 100/100, validation error 2.860000 %
+epoch 17, minibatch 100/100, testing error 2.560000 %
+('training @ iter = ', 1700)
+epoch 18, minibatch 100/100, validation error 2.810000 %
+epoch 18, minibatch 100/100, testing error 2.470000 %
+('training @ iter = ', 1800)
+epoch 19, minibatch 100/100, validation error 2.770000 %
+epoch 19, minibatch 100/100, testing error 2.420000 %
+('training @ iter = ', 1900)
+epoch 20, minibatch 100/100, validation error 2.710000 %
+epoch 20, minibatch 100/100, testing error 2.440000 %
+Optimization complete
+Best validation score of 2.710000 % obtained at iteration 1999,with test performance 2.440000 %
+The code ran for 17.35m
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Training without supervised probabilities (16,16,16) 
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 14.970000 %
+epoch 1, minibatch 100/100, testing error 15.260000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 7.710000 %
+epoch 2, minibatch 100/100, testing error 8.130000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 5.600000 %
+epoch 3, minibatch 100/100, testing error 5.610000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 4.570000 %
+epoch 4, minibatch 100/100, testing error 4.560000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.920000 %
+epoch 5, minibatch 100/100, testing error 3.860000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 3.460000 %
+epoch 6, minibatch 100/100, testing error 3.500000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 3.150000 %
+epoch 7, minibatch 100/100, testing error 3.020000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.930000 %
+epoch 8, minibatch 100/100, testing error 2.780000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.730000 %
+epoch 9, minibatch 100/100, testing error 2.610000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.540000 %
+epoch 10, minibatch 100/100, testing error 2.410000 %
+Optimization complete
+Best validation score of 2.540000 % obtained at iteration 999,with test performance 2.410000 %
+The code ran for 17.73m
+
+--------------------------------------------------------------------------------------------------------------------
+
+Training with supervised probabilities ( 16,16,16 ) network with constant weight of 1 given to p_y_given_x
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 14.600000 %
+epoch 1, minibatch 100/100, testing error 14.770000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 7.520000 %
+epoch 2, minibatch 100/100, testing error 7.840000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 5.500000 %
+epoch 3, minibatch 100/100, testing error 5.480000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 4.530000 %
+epoch 4, minibatch 100/100, testing error 4.490000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.880000 %
+epoch 5, minibatch 100/100, testing error 3.820000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 3.480000 %
+epoch 6, minibatch 100/100, testing error 3.490000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 3.190000 %
+epoch 7, minibatch 100/100, testing error 3.070000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.960000 %
+epoch 8, minibatch 100/100, testing error 2.760000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.720000 %
+epoch 9, minibatch 100/100, testing error 2.630000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.540000 %
+epoch 10, minibatch 100/100, testing error 2.470000 %
+Optimization complete
+Best validation score of 2.540000 % obtained at iteration 999,with test performance 2.470000 %
+The code ran for 21.08m
+
+------------------------------------------------------------------------------------------------------------------
+
+Training (16,16,16) with 0.5 KD (p_y_given_x)
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 14.810000 %
+epoch 1, minibatch 100/100, testing error 14.980000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 7.620000 %
+epoch 2, minibatch 100/100, testing error 7.970000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 5.560000 %
+epoch 3, minibatch 100/100, testing error 5.510000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 4.530000 %
+epoch 4, minibatch 100/100, testing error 4.520000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.890000 %
+epoch 5, minibatch 100/100, testing error 3.850000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 3.450000 %
+epoch 6, minibatch 100/100, testing error 3.500000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 3.170000 %
+epoch 7, minibatch 100/100, testing error 3.030000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.920000 %
+epoch 8, minibatch 100/100, testing error 2.760000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.730000 %
+epoch 9, minibatch 100/100, testing error 2.640000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.540000 %
+epoch 10, minibatch 100/100, testing error 2.410000 %
+Optimization complete
+Best validation score of 2.540000 % obtained at iteration 999,with test performance 2.410000 %
+The code ran for 16.07m
+
+------------------------------------------------------------------------------------------------------------------------
+
+Training with decreasing weight with a ratio of (1/epoch) with KD starting at 1 for (16,16,16)
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 14.600000 %
+epoch 1, minibatch 100/100, testing error 14.770000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 7.570000 %
+epoch 2, minibatch 100/100, testing error 7.900000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 5.510000 %
+epoch 3, minibatch 100/100, testing error 5.500000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 4.550000 %
+epoch 4, minibatch 100/100, testing error 4.490000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.900000 %
+epoch 5, minibatch 100/100, testing error 3.860000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 3.420000 %
+epoch 6, minibatch 100/100, testing error 3.480000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 3.140000 %
+epoch 7, minibatch 100/100, testing error 3.010000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.920000 %
+epoch 8, minibatch 100/100, testing error 2.750000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.720000 %
+epoch 9, minibatch 100/100, testing error 2.580000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.550000 %
+epoch 10, minibatch 100/100, testing error 2.420000 %
+Optimization complete
+Best validation score of 2.550000 % obtained at iteration 999,with test performance 2.420000 %
+The code ran for 20.81m
+
+----------------------------------------------------------------------------------------------------------------------
+
+Training KD(16,16,16) with cross entropy * (1/epoch)
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 12.200000 %
+epoch 1, minibatch 100/100, testing error 12.320000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 6.670000 %
+epoch 2, minibatch 100/100, testing error 6.760000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 5.010000 %
+epoch 3, minibatch 100/100, testing error 5.090000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 4.240000 %
+epoch 4, minibatch 100/100, testing error 4.100000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.710000 %
+epoch 5, minibatch 100/100, testing error 3.560000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 3.380000 %
+epoch 6, minibatch 100/100, testing error 3.130000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 3.030000 %
+epoch 7, minibatch 100/100, testing error 2.830000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.770000 %
+epoch 8, minibatch 100/100, testing error 2.560000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.630000 %
+epoch 9, minibatch 100/100, testing error 2.460000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.490000 %
+epoch 10, minibatch 100/100, testing error 2.310000 %
+Optimization complete
+Best validation score of 2.490000 % obtained at iteration 999,with test performance 2.310000 %
+The code ran for 18.53m
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Training with 2/epochs and KD(16,16,16) cross entropy
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 10.340000 %
+epoch 1, minibatch 100/100, testing error 10.360000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 6.050000 %
+epoch 2, minibatch 100/100, testing error 6.270000 %
+('training @ iter = ', 200)
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Training with 10/epochs and KD(16,16,16) cross entropy
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 6.820000 %
+epoch 1, minibatch 100/100, testing error 7.270000 %
+('training @ iter = ', 100)
+^[[Bepoch 2, minibatch 100/100, validation error 5.090000 %
+epoch 2, minibatch 100/100, testing error 5.220000 %
+('training @ iter = ', 200)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Training with 50/epochs and KD(16,16,16) cross entropy
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 90.100000 %
+epoch 1, minibatch 100/100, testing error 89.680000 %
+
+
+
+-------------------------------------------
+-------------------------------------------
+
+Results for 6 Layer
+
+-------------------------------------------
+-------------------------------------------
+
+Training (16,16,16,12,12,12) without any supervision 
+epoch 1, minibatch 100/100, validation error 15.020000 %
+epoch 1, minibatch 100/100, testing error 15.260000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 6.940000 %
+epoch 2, minibatch 100/100, testing error 6.730000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 4.800000 %
+epoch 3, minibatch 100/100, testing error 4.850000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 3.790000 %
+epoch 4, minibatch 100/100, testing error 3.920000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.300000 %
+epoch 5, minibatch 100/100, testing error 3.350000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 3.050000 %
+epoch 6, minibatch 100/100, testing error 2.930000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 2.830000 %
+epoch 7, minibatch 100/100, testing error 2.630000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.680000 %
+epoch 8, minibatch 100/100, testing error 2.440000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.550000 %
+epoch 9, minibatch 100/100, testing error 2.400000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.440000 %
+epoch 10, minibatch 100/100, testing error 2.280000 %
+Optimization complete
+Best validation score of 2.440000 % obtained at iteration 999,with test performance 2.280000 %
+The code ran for 56.90m
+
+-----------------------------------------------------------------------------------------------------------------
+
+Training with (1/e) KD (6 layer)
+
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 11.470000 %
+epoch 1, minibatch 100/100, testing error 11.700000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 6.020000 %
+epoch 2, minibatch 100/100, testing error 5.830000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 4.260000 %
+epoch 3, minibatch 100/100, testing error 4.490000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 3.440000 %
+epoch 4, minibatch 100/100, testing error 3.620000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 3.050000 %
+epoch 5, minibatch 100/100, testing error 3.170000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 2.790000 %
+epoch 6, minibatch 100/100, testing error 2.820000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 2.570000 %
+epoch 7, minibatch 100/100, testing error 2.500000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.440000 %
+epoch 8, minibatch 100/100, testing error 2.370000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.330000 %
+epoch 9, minibatch 100/100, testing error 2.200000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.230000 %
+epoch 10, minibatch 100/100, testing error 2.080000 %
+Optimization complete
+Best validation score of 2.230000 % obtained at iteration 999,with test performance 2.080000 %
+The code ran for 60.10m
+
+-------------------------------------------------------------------------------------------------------------------
+
+Training with (2/e) KD (6 layer)
+
+
+('training @ iter = ', 0)
+epoch 1, minibatch 100/100, validation error 9.970000 %
+epoch 1, minibatch 100/100, testing error 10.150000 %
+('training @ iter = ', 100)
+epoch 2, minibatch 100/100, validation error 5.160000 %
+epoch 2, minibatch 100/100, testing error 5.440000 %
+('training @ iter = ', 200)
+epoch 3, minibatch 100/100, validation error 3.830000 %
+epoch 3, minibatch 100/100, testing error 4.270000 %
+('training @ iter = ', 300)
+epoch 4, minibatch 100/100, validation error 3.290000 %
+epoch 4, minibatch 100/100, testing error 3.550000 %
+('training @ iter = ', 400)
+epoch 5, minibatch 100/100, validation error 2.930000 %
+epoch 5, minibatch 100/100, testing error 3.160000 %
+('training @ iter = ', 500)
+epoch 6, minibatch 100/100, validation error 2.720000 %
+epoch 6, minibatch 100/100, testing error 2.770000 %
+('training @ iter = ', 600)
+epoch 7, minibatch 100/100, validation error 2.590000 %
+epoch 7, minibatch 100/100, testing error 2.490000 %
+('training @ iter = ', 700)
+epoch 8, minibatch 100/100, validation error 2.480000 %
+epoch 8, minibatch 100/100, testing error 2.300000 %
+('training @ iter = ', 800)
+epoch 9, minibatch 100/100, validation error 2.330000 %
+epoch 9, minibatch 100/100, testing error 2.070000 %
+('training @ iter = ', 900)
+epoch 10, minibatch 100/100, validation error 2.160000 %
+epoch 10, minibatch 100/100, testing error 1.970000 %
+Optimization complete
+Best validation score of 2.160000 % obtained at iteration 999,with test performance 1.970000 %
+The code ran for 58.21m
